@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Madan-21.github.io/Portflolio-main",
+  "homepage": "https://Madan-21.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
