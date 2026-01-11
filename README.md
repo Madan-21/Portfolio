@@ -101,9 +101,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) - Uses Babel for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) - Uses SWC for Fast Refresh
 
-## Live Demo
-
-Visit the live site: [Your Portfolio URL]
 
 ## Deployments
 
@@ -131,10 +128,6 @@ Visit the live site: [Your Portfolio URL]
 ## Contributing
 
 While this is a personal portfolio, suggestions and feedback are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is open source and available under the MIT License.
 
 ## Author
 
