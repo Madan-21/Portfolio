@@ -132,14 +132,6 @@ While this is a personal portfolio, suggestions and feedback are welcome! Feel f
 ## Author
 
 **Madan-21**
-
-## Acknowledgments
-
-- React team for the amazing framework
-- Vite team for the blazing-fast build tool
-- Tailwind CSS for the utility-first CSS framework
-- GitHub Pages for free hosting
-
 ---
 
 *Built with ⚡ React + Vite and deployed with 💚 on GitHub Pages*
