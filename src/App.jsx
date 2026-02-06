@@ -573,6 +573,7 @@ function App() {
               <EnhancedSkillCard name="MySQL" duration="4 months" progress={30} color="blue" icon="🗄️" />
               <EnhancedSkillCard name="Machine Learning" duration="3 months" progress={25} color="purple" icon="🤖" />
               <EnhancedSkillCard name="C#" duration="1 month" progress={15} color="purple" icon="🤖" />
+              <EnhancedSkillCard name="Cybersecurity" duration="1 month" progress={15} color="purple" icon="🤖" />
 
             </div>
           </div>
