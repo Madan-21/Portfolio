@@ -423,7 +423,7 @@ function App() {
         {/* Enhanced action buttons */}
         <div className="flex flex-col sm:flex-row gap-4 mb-12">
           <a
-            href="./Madan-Pandey-Resume.pdf"
+            href="/Madan Pandey - CV.pdf"
             download
             className="group relative px-8 py-4 bg-gradient-to-r from-blue-500 to-purple-600 rounded-xl font-bold hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl flex items-center justify-center space-x-2 overflow-hidden"
           >
