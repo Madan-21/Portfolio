@@ -554,7 +554,7 @@ function App() {
               </span>
             </h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              <EnhancedSkillCard name="HTML5" duration="12 months" progress={90} color="orange" icon="🌐" />
+              <EnhancedSkillCard name="HTML5" duration="12 months" progress={90} color="orange" icon="📄" />
               <EnhancedSkillCard name="CSS3 & Tailwind" duration="12 months" progress={85} color="blue" icon="🎨" />
               <EnhancedSkillCard name="JavaScript" duration="3 months" progress={25} color="yellow" icon="⚡" />
               <EnhancedSkillCard name="React.js" duration="3 months" progress={25} color="cyan" icon="⚛️" />
@@ -571,9 +571,9 @@ function App() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               <EnhancedSkillCard name="Python" duration="4 months" progress={35} color="green" icon="🐍" />
               <EnhancedSkillCard name="MySQL" duration="4 months" progress={30} color="blue" icon="🗄️" />
-              <EnhancedSkillCard name="Machine Learning" duration="3 months" progress={25} color="purple" icon="🤖" />
-              <EnhancedSkillCard name="C#" duration="1 month" progress={15} color="purple" icon="🤖" />
-              <EnhancedSkillCard name="Cybersecurity" duration="1 month" progress={15} color="purple" icon="🤖" />
+              <EnhancedSkillCard name="Machine Learning" duration="3 months" progress={25} color="purple" icon="�" />
+              <EnhancedSkillCard name="C#" duration="1 month" progress={15} color="purple" icon="🎮" />
+              <EnhancedSkillCard name="Cybersecurity" duration="1 month" progress={15} color="pink" icon="🔐" />
 
             </div>
           </div>
@@ -587,15 +587,15 @@ function App() {
             </h3>
             <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
               {[
-                { name: 'Git', icon: '📝' },
+                { name: 'Git', icon: '�' },
                 { name: 'VS Code', icon: '💻' },
-                { name: 'Figma', icon: '🎯' },
-                { name: 'Node.js', icon: '🌟' },
+                { name: 'Figma', icon: '�' },
+                { name: 'Node.js', icon: '🟢' },
                 { name: 'MongoDB', icon: '🍃' },
                 { name: 'Docker', icon: '🐳' },
                 { name: 'VS', icon: '🖥️' },
                 { name: 'Power BI', icon: '📊' },
-                { name: 'Splunk', icon: '📊' },
+                { name: 'Splunk', icon: '�' },
               ].map((tool, index) => (
                 <div 
                   key={tool.name}
